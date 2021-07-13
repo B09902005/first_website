@@ -1,0 +1,41 @@
+h1,h2 {
+  color : orange;       /* 字體橘色 */
+  font-size : 60px;     /* 字體大小 */
+  text-align : center;  /* 字體置中 */
+  line-height : 2;      /* 行的高度 */
+  margin : 0;           /* 行距 */
+  text-shadow : 2px 2px 1px black;     /* 陰影的...  水平 垂直 厚度 顏色 */    
+
+}
+
+h3 {
+  color : green;
+  font-size : 30px;
+  line-height : 3; 
+  margin : 0;
+}
+
+img{
+  display : block;   /* 把img用成block */
+  margin : 0 auto;   /* 上下零間隔，左右置中 */
+}
+
+li{
+  Letter-spacing : 2px;
+}
+
+html {
+  font-size : 20px;
+  font-family : 'Tourney', cursive;
+  background-color : #C0FFEE
+}
+
+/*
+body {
+  width : 600px;
+  margin : 0 auto;
+  background-color : #314159;
+  padding : 0 20px 20px 20px;
+  border : 5px solid black;
+}
+*/
